@@ -341,7 +341,7 @@ nav a {
 }
 
 .card:nth-child(1)::before, .card:nth-child(3)::before, .card:nth-child(4)::before {
-    background: linear-gradient(90deg, transparent, rgba(34, 197, 94, 0.4), transparent);
+    background: linear-gradient(90deg, transparent, rgba(76, 81, 78, 0.4), transparent);
 }
 
 .card:nth-child(1):hover, .card:nth-child(3):hover, .card:nth-child(4):hover {
